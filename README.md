@@ -4,11 +4,11 @@ Termux içinde kurulu olan Kali Linux üzerinden, tek komutla Metasploit Framewo
 
 ## Gereksinimler
 - Termux
-- Proot-Distro (Kali Linux kurulu olmalı)
+- Termuxta Kali NetHunter (nh komutu) Kurulu Olmalı.
 
 ## Kurulum ve Kullanım
 ```bash
-git clone [https://github.com/600watt/Kali-MSF-Runner.git](https://github.com/600watt/Kali-MSF-Runner.git)
+git clone https://github.com/600watt/Kali-MSF-Runner.git (https://github.com/600watt/Kali-MSF-Runner.git)
 cd Kali-MSF-Runner
 bash run.sh
 
