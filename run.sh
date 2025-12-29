@@ -6,5 +6,5 @@ echo -e "\033[1;31m[*] Metasploit Framework Başlatılıyor! \033[0m"
 sleep 2
 
 
-proot-distro login kali -- msfconsole
+nh msfconsole
 
